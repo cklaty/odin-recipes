@@ -1,0 +1,39 @@
+div {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+button {
+    background-color: orange;
+    font-size: 18px;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 50px;
+    color: burlywood;
+}
+
+h2 {
+    color:tan
+}
+
+ul {
+    list-style: none;
+    color: black;
+}
+
+ol {
+    color: black;
+    list-style-position: inside;
+}
+
+html {
+    background-color: whitesmoke;
+}
